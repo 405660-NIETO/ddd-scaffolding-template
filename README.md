@@ -1,0 +1,1 @@
+# ddd-scaffolding-template
